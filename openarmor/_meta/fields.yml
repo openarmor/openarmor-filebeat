@@ -1,0 +1,9 @@
+- key: openarmor
+  title: "openarmor"
+  description: >
+    openarmor Module
+  fields:
+    - name: openarmor
+      type: group
+      description: >
+      fields:
